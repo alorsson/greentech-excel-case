@@ -51,6 +51,7 @@ This case was completed using **advanced Excel formulas, PivotTables**, and logi
   - Tabs: `Customer_Transaction`, `Customer`, `Product_Cost`, `Q1–Q6 Answers`, `Exec Summary`
   - Highlighted formulas and explanations using `FORMULATEXT()`
   - Clean, organized layout for stakeholder clarity
+- [`case_questions.md`](case_questions.md) — Full list of case instructions and analysis prompts for reference
 
 ---
 
